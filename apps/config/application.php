@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-$config['admin_store_name']							= 'Sound Genie';
-$config['site_name']								= 'Sound Genie';
+$config['admin_store_name']							= 'Sound Genie project';
+$config['site_name']								= 'Sound Genie project';
 $config['site_url']									= 'Sound Genie';
 
 $config['per_page'] 								= 12;
