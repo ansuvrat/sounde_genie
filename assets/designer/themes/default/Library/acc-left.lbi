@@ -1,0 +1,18 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div class="acc_lft">
+    <div class="acc_box p-3">
+        <p class="fs16 yel">Shashi Bhushan Himta</p>
+        <p class="mt-1">shashibhushanhimta@gmail.com</p>
+        <p class="mt-1">Last Login: 07/01/2019 [10:10am] </p>
+    </div>
+    <p class="d-block d-lg-none acc_tab_mob shownext"><span class="fas fa-bars"></span> Account Links</p>
+    <div class="acc_box acc_box_hide">
+      <ul class="acc_links">
+        <li class="acc_act"><a href="../account.htm"><span class="far fa-folder-open"></span> Dashboard</a></li>
+        <li><a href="../acc-edit.htm"><span class="far fa-id-card"></span> Edit Profile</a></li>
+        <li><a href="../acc-password.htm"><span class="fas fa-key"></span> Change Password</a></li>
+        <li><a href="../acc-enquiries.htm"><span class="far fa-envelope"></span> My Enquiries</a></li>
+        <li><a href="../acc-order.htm"><span class="far fa-list-alt"></span> My Orders</a></li>
+        <li><a href="../index.htm"><span class="fas fa-sign-out-alt"></span> Logout</a></li>
+      </ul>
+    </div>
+  </div>

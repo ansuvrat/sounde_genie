@@ -1,0 +1,74 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><footer>
+<div class="container foot_bg">
+<div class="foot_sec1">
+<p class="foot_logo"><a href="../index.htm" title="Sound Genie">Sound Genie</a><br><span>Granting All Your Audio wishes</span></p>
+<p class="copyright">Copyright© 2018, SoundGenie. <br>All Rights Reserved</p>
+<p class="bot_social"><a href="#" title="Facebook"><span class="fab fa-facebook-f"></span></a> <a href="#" title="Twitter"><span class="fab fa-twitter"></span></a> <a href="#" title="Linkedin"><span class="fab fa-linkedin-in"></span></a> <a href="#" title="Youtube"><span class="fab fa-youtube"></span></a> <a href="#" title="Google Plus"><span class="fab fa-google-plus-g"></span></a></p>
+</div>
+
+<div class="foot_sec2">
+<p class="d-none d-md-block bot_heading">Quick Links</p>
+<p class="d-block d-md-none dd_next hand bot_heading">Quick Links</p>
+<div class="bot_cont">
+<p class="botlink"><a href="../index.htm" title="Home">Home</a>
+<a href="../aboutus.htm" title="About Us">About Us</a>
+<a href="../services.htm" title="Services">Services</a>
+<a href="../career.htm" title="Career">Career</a>
+<a href="../contactus.htm" title="Contact Us">Contact Us</a>
+<a data-fancybox data-type="iframe" data-src="newsletter.htm" href="javascript:void(0);" class="pop1" title="Newsletter">Newsletter</a></p>
+</div>
+</div>
+
+<div class="foot_sec3">
+<p class="d-none d-md-block bot_heading">Music Production</p>
+<p class="d-block d-md-none dd_next hand bot_heading">Music Production</p>
+<div class="bot_cont">
+<p class="botlink"><a href="../composition.htm">Compsition</a>
+<a href="../lyrics.htm" title="Lyrics">Lyrics</a>
+<a href="../mixing.htm" title="Mixing">Mixing</a>
+<a href="../mastering.htm" title="Mastering">Mastering</a></p>
+</div>
+<p class="d-none d-md-block bot_heading">Sound Production</p>
+<p class="d-block d-md-none dd_next hand bot_heading">Sound Production</p>
+<div class="bot_cont">
+<p class="botlink"><a href="../sound-recording.htm" title="Sound Recording">Sound Recording</a><a href="../sound-designing.htm" title="Sound Designing">Sound Designing</a></p>
+</div>
+</div>
+
+<div class="foot_sec4">
+<p class="d-none d-md-block bot_heading">Information Links</p>
+<p class="d-block d-md-none dd_next hand bot_heading">Information Links</p>
+<div class="bot_cont">
+<p class="botlink"><a href="../faq.htm" title="FAQ's">FAQ's</a>
+<a href="../testimonials.htm" title="Testimonials">Testimonials</a>
+<a href="../privacy-policy.htm" title="Privacy Policy">Privacy Policy</a>
+<a href="../terms-conditions.htm" title="Terms and Conditions">Terms and Conditions</a>
+<a href="../legal-disclaimer.htm" title="Legal Disclaimer">Legal Disclaimer</a>
+<a href="../sitemap.htm" title="Sitemap">Sitemap</a></p>
+</div>
+</div>
+
+<div class="foot_sec5">
+<p class="d-none d-md-block bot_heading">Contact Details</p>
+<p class="d-block d-md-none dd_next hand bot_heading">Contact Details</p>
+<div class="bot_cont">
+<p><span class="bot_ico fas fa-envelope"></span> <span class="foot_addr yel"><a href="mailto:info@soundgenie.com">info@soundgenie.com</a></span></p>
+<p class="clearfix"></p>
+<p><span class="bot_ico fas fa-phone"></span> <span class="foot_addr">+966 5 333 169 56</span></p>
+<p class="clearfix"></p>
+<p><span class="bot_ico fas fa-map-marker-alt"></span> <span class="foot_addr">33 & 33A, Rama Road, Industrial Area, Near Kirti Nagar Metro Station, New Delhi - 110015 (INDIA)</span></p>
+<p class="clearfix"></p>
+</div>
+</div>
+
+<p class="clearfix"></p>
+</div>
+
+<div class="foot2">
+<div class="container">
+<p class="vision"><img src="../images/vision.png" alt="Vision 2030"></p>
+<p class="developed">Developed and Managed by <br><span><a href="https://www.weblinkindia.net" target="_blank" rel="nofollow" title="WeblinkIndia.NET">WeblinkIndia.NET</a></span></p>
+<p class="clearfix"></p>
+</div>
+</div>
+</footer>

@@ -1,0 +1,31 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><header>
+<div class="container position-relative">
+<div class="row">
+<div class="col-md-5 no_pad bb"><div class="call"><i class="fas fa-phone"></i> Phone Enquiries: <span class="yel">+966 5 333 169 56</span><i class="yel"><a href="tel:+966533316956">+966 5 333 169 56</a></i></div></div>
+<div class="col-md-2 no_pad"><p class="logo"><a href="../index.htm" title="Sound Genie"><img src="../images/soundgenie.png" alt="Sound Genie"></a></p></div>
+<div class="col-md-5 no_pad bb d-none d-md-block"><p class="social_top"><a href="#" title="Facebook"><span class="fab fa-facebook-f"></span></a><a href="#" title="Twitter"><span class="fab fa-twitter"></span></a><a href="#" title="Linkedin"><span class="fab fa-linkedin-in"></span></a><a href="#" title="Google Plus"><span class="fab fa-google-plus-g"></span></a><a href="#" title="Youtube"><span class="fab fa-youtube"></span></a></p></div>
+</div>
+
+<div class="navbar">
+<div class="navbar-inner">
+  <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+  <div class="nav-collapse collapse">
+    <ul class="nav">
+      <li><a href="../index.htm" title="Home" class="act">Home</a></li>
+      <li><a href="../aboutus.htm" title="About Us">About Us</a></li>
+      <li><a href="../services.htm" title="Services">Services</a></li>
+      <!--<li><a href="../client-entry.htm" title="Client Entry">Client Entry</a></li>-->
+      <li><a href="../career.htm" title="Career">Career</a></li>
+      <li><a href="../contactus.htm" title="Contact Us">Contact Us</a></li>     
+    </ul>
+  </div>
+</div>
+</div>
+
+<div class="log_reg"><a href="../login.htm" title="Login">Login</a> <a href="../register.htm" title="Register">Register</a></div>
+
+<p class="clearfix"></p>
+
+</div>
+</header>
+<p class="topfix"></p>
